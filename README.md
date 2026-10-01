@@ -43,7 +43,7 @@ Browser renders clip-path: polygon()
 Chart displayed via pure CSS
 ```
 
----
+## Quick Start st-core.fscss 
 
 A pure-CSS chart engine for pages that can't afford a runtime.
 
